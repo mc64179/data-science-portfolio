@@ -1,0 +1,31 @@
+---
+---
+@import "minima";
+
+:root {
+  --ink: #17212b;
+  --accent: #006b5f;
+  --line: #d7dee5;
+  --paper: #ffffff;
+}
+
+body {
+  color: var(--ink);
+  background: var(--paper);
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  line-height: 1.65;
+}
+
+.site-header { border-top-color: var(--accent); }
+.site-title, .site-title:visited { color: var(--ink); }
+a, a:visited { color: var(--accent); }
+.post-title { font-size: 2rem; }
+.post-content h1 { font-size: 2.4rem; margin-bottom: 0.4rem; }
+.post-content h2 { border-bottom: 1px solid var(--line); padding-bottom: 0.35rem; }
+.post-content img { border: 1px solid var(--line); border-radius: 6px; }
+code { color: var(--ink); }
+
+@media (max-width: 600px) {
+  .post-content h1 { font-size: 2rem; }
+  .post-title { font-size: 1.7rem; }
+}
