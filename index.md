@@ -1,6 +1,5 @@
 ---
 layout: default
-title: CHEN TIANYING | Data Science Portfolio
 ---
 
 # CHEN TIANYING
