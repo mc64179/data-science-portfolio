@@ -1,28 +1,40 @@
----
-layout: default
----
+# Chen Tianying — Data Science Portfolio
 
-# CHEN TIANYING
+## About me
 
-I am a CISC7204 student developing practical skills in data analysis, reproducible research, and clear visual communication. This portfolio documents how I turn structured data into evidence-based findings with Python.
+I am a CISC7204 student building practical skills in Python data analysis and visualization. My work covers data cleaning, exploratory analysis, statistical summaries, visual communication, interactive charts, and geospatial visualization.
 
 ## Technical skills
 
-`Python` · `pandas` · `NumPy` · `Matplotlib` · `Jupyter Notebook` · `Git` · `GitHub Pages`
+- Python, pandas, NumPy, SciPy
+- Matplotlib, Seaborn, Bokeh, Plotly, Folium
+- Jupyter Notebook and reproducible project organization
+- Data cleaning, grouped summaries, filtering, descriptive statistics, and visualization
 
-## Featured project
+## Featured project: London Housing Prices and Crime Patterns
 
-### Technology Stock Trends, 2013-2018
+**Research question:** How do average housing prices and recorded crime counts vary across years and areas in the supplied London housing dataset?
 
-**Research question:** How did the closing prices of five major technology companies change between February 2013 and February 2018, and which stock recorded the greatest percentage growth?
+The analysis converts dates, derives year and month fields, compares yearly housing price extremes, summarizes crime counts by area, and identifies lower-priced records. The results are descriptive and cannot establish that crime causes housing prices.
 
-![Indexed growth of five technology stocks](https://raw.githubusercontent.com/mc64179/data-science-project/main/visualizations/normalized-growth.png)
+![Yearly housing price comparison](assets/yearly-price-range.svg)
 
-Indexing every stock to 100 on the first date makes companies with very different share prices comparable. Facebook produced the largest increase over the period, approximately **531.2%**, while Amazon followed at **440.9%**. The chart describes historical price growth only; it does not account for dividends, splits, inflation, trading costs, or risk.
+![Area crime comparison](assets/crime-by-area.svg)
 
-**Status:** Completed  
-**Repository:** [View code, data, documentation, and reproducibility instructions](https://github.com/mc64179/data-science-project)
 
-## Contact
 
-[GitHub profile](https://github.com/mc64179)
+**Project status:** Completed course analysis.
+
+**Project repository:** [CISC7204 Data Science Project Collection](https://github.com/mc64179/data-science-project)
+
+## Additional course work
+
+The project repository also documents Police, Weather, Cars, and COVID-19 analyses, plus selected visualization, geospatial, interactive, and statistical reasoning notebooks from the semester.
+
+## Responsible sharing
+
+The repository contains course exercise datasets and analysis outputs. Before publication, I will verify the original data providers' licences and include required attribution. No passwords, API keys, or private records are included.
+
+## Feedback improvement
+
+A peer review will be recorded before final submission. The improvement commit will clarify the featured project's research question, explain the visual findings, and make the reproduction steps easier to follow.

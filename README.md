@@ -1,7 +1,5 @@
-# Data Science Portfolio
+# Data Science Portfolio Website
 
-GitHub Pages portfolio for CHEN TIANYING (`mc641790`).
+This repository is intended for GitHub Pages. Set Pages to deploy the `main` branch from the repository root. The website entry file is [`index.md`](index.md).
 
-After publishing from the `main` branch and repository root, the site will be available at:
-
-<https://mc64179.github.io/data-science-portfolio/>
+Expected site URL after publication: `https://mc64179.github.io/data-science-portfolio/`.
