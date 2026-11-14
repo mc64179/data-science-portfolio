@@ -1,12 +1,13 @@
 # Portfolio checklist
 
-- [x] Portfolio entry file includes name and introduction.
-- [x] Technical skills are listed.
-- [x] Featured project has a title and research question.
-- [x] At least two readable visualizations are shown.
-- [x] Findings and a meaningful limitation are explained.
-- [x] Project repository link is included.
-- [ ] GitHub Pages URL tested after publication.
-- [ ] All image links and repository links tested on GitHub.
-- [ ] Peer feedback and improvement commit added.
-- [ ] Dataset source licences and attribution verified.
+The repository content has been checked locally. Complete the final browser checks after uploading to GitHub Pages.
+
+- [x] Entry file includes an introduction and technical skills.
+- [x] Featured project includes a title, research question, findings, limitation, and repository link.
+- [x] Three labelled visualizations are included.
+- [x] Notebook and plotting script regenerate the figures.
+- [x] No passwords, API keys, or private records are included.
+- [x] Peer feedback and the resulting improvement are recorded.
+- [ ] Live Pages URL and image links need final browser verification after upload.
+
+The original data providers and licence terms are identified as an unresolved sharing check in the project README; no open licence is claimed.
