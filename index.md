@@ -1,6 +1,6 @@
-# Chen Tianying — Data Science Portfolio
-
 ## About me
+
+**Chen Tianying — Data Science Portfolio**
 
 I am a CISC7204 student developing practical skills in Python data analysis and visualization. This portfolio covers data cleaning, exploratory analysis, statistical summaries, visual communication, interactive charts, and geospatial visualization.
 
@@ -30,7 +30,7 @@ The project repository also documents Police, Weather, Cars, and COVID-19 analys
 
 ## Data sources and responsible sharing
 
-The project uses course-provided exercise copies. The London Housing file matches the public Kaggle dataset [London Housing Data](https://www.kaggle.com/datasets/rohitgrewal/london-housing-data), but the supplied copy does not state a licence. The original provider and redistribution terms for the other course datasets were not included in the materials. The project therefore does not claim an open licence; raw-data reuse should be checked against the original providers' terms. No passwords, API keys, or private records are included.
+The project uses course-provided exercise copies. The London Housing file appears to correspond to the public Kaggle dataset [London Housing Data](https://www.kaggle.com/datasets/rohitgrewal/london-housing-data), but the supplied copy does not state a licence. The original provider and redistribution terms for the other course datasets were not included in the materials. The project therefore does not claim an open licence; raw-data reuse should be checked against the original providers' terms. No passwords, API keys, or private records are included.
 
 ## Feedback and improvement
 
