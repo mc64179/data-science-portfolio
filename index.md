@@ -44,7 +44,8 @@ The project uses course-provided exercise copies. The London Housing file appear
 
 ## Feedback and improvement
 
-A classmate reviewed the first version of this portfolio and pointed out that it described methods but reported no concrete findings. In response I added the numerical results and figure captions above, rebuilt the three charts with titles, axis labels, and units, and added `plot_london_housing.py` so the figures can be regenerated from the data.
+My classmate Liu Yuechi reviewed the first version of this portfolio and told me that it described methods but reported no concrete findings. In response I added the numerical results and figure captions above, rebuilt the three charts with titles, axis labels, and units, and added `plot_london_housing.py` so the figures can be regenerated from the data.
 
-- Peer feedback: "The portfolio described methods but did not report concrete numerical findings."
+- Peer reviewer: Liu Yuechi, my classmate in CISC7204
+- Feedback: "The portfolio described methods but did not report concrete numerical findings."
 - Improvement commit: [`3d2c623`](https://github.com/mc64179/data-science-portfolio/commit/3d2c62332dda11b618f5a2986d7ab361156b5c45)
